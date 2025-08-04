@@ -21,7 +21,7 @@ A simple and responsive image search application that fetches high-quality image
 
 <p>
   <img width="45%" height="841" alt="image" src="https://github.com/user-attachments/assets/f20ce091-4211-420d-9ab3-7ffc7d29b522" />
-  <img width="45%" height="680" alt="image" src="https://github.com/user-attachments/assets/6976d590-a985-45db-a9f3-1ba3235544f5" />
+  <img width="45%" height="380" alt="image" src="https://github.com/user-attachments/assets/6976d590-a985-45db-a9f3-1ba3235544f5" />
 </p>
 
 ## 🧠 How It Works
